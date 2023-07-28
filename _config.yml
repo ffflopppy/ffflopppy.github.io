@@ -100,7 +100,7 @@ mermaid:
 heading_anchors: true
 
 # Aux links for the upper right navigation
-aux_links:
+aux_links: https://github.com/ffflopppy
   "Just the Docs on GitHub":
     - "//github.com/just-the-docs/just-the-docs"
 
