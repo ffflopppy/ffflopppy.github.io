@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Dot Dot Docs
 description: 하고싶은걸 해야지
-baseurl: "https://github.com/ffflopppy" 
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://just-the-docs.com" # the base hostname & protocol for your site, e.g. http://example.com
 repository: just-the-docs/just-the-docs # for github-metadata
 
