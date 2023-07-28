@@ -10,7 +10,7 @@ permalink: /
 {: .fs-9 }
 
 더 재밌게 일하면 더 재밌겠지. 늘 항상 재밌을순 없지만 결국엔 재밌었으면.
-{: .fs-6 .fw-300 }
+{: .fs-2 .fw-300 }
 
 ---
 
@@ -23,6 +23,13 @@ Sping Boot, JAVA, Kotlin, JPA, MySQL
 
 
 ## About the project
+중요한것중 가장 쉬운것부터 시작
+
+한번에 많이 하려는 욕심
+
+완벽한 환경에대한 환상
+
+기분 상광없이 실행
 
 TODO LIST @ [todoList repo](http://patrickmarsceill.com).
 
